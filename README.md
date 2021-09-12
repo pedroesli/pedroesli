@@ -1,4 +1,4 @@
-## Hello World! 👋 Eu Sou o Pedro Ésli
+## Hello World! 👋 Im am Pedro Ésli
  <div>
   <a href="https://github.com/pedroesli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroesli&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
